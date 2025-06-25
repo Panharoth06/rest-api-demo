@@ -1,4 +1,4 @@
-package co.istad.restapi.model;
+package co.istad.restapi;
 
 import co.istad.restapi.inMemoryDatabase.UserDatabase;
 import lombok.RequiredArgsConstructor;

@@ -1,6 +1,6 @@
 package co.istad.restapi.inMemoryDatabase;
 
-import co.istad.restapi.model.User;
+import co.istad.restapi.User;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
